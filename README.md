@@ -14,6 +14,6 @@ Limitations
 Libraries used
 ====================
 
-32Feet.NET - http://32feet.codeplex.com/
-Microsoft Task Parallel Library for .NET 3.5 - https://www.nuget.org/packages/TaskParallelLibrary/
-JSON.NET (Newtonsoft) - http://james.newtonking.com/json
+- 32Feet.NET - http://32feet.codeplex.com/
+- Microsoft Task Parallel Library for .NET 3.5 - https://www.nuget.org/packages/TaskParallelLibrary/
+- JSON.NET (Newtonsoft) - http://james.newtonking.com/json
